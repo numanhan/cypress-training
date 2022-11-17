@@ -11,3 +11,6 @@ module.exports = defineConfig({
       // implement node event listeners here  
     }}
 });
+
+
+require('@applitools/eyes-cypress')(module);
